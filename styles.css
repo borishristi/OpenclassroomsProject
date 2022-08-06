@@ -10,4 +10,8 @@ p {
 .paragraphe {
 	color:blue;
 	font-size: 20px;
+	color: blue;
+}
+.paragraphe{
+	color: black;
 }
